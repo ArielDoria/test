@@ -3,7 +3,11 @@
 	<link rel="stylesheet" type="text/css" href="test.css">
 </head>
 <body>
-	<h1>Hello World!</h1>
+<<<<<<< HEAD
+	<h1>hello philippines!</h1>
+=======
+	<h1>Hello World!!........</h1>
+>>>>>>> ab-1l_doria
 	<img src="image.jpg"/>
 	<p> Ariel Bituin Doria, 2012-37192, CMSC 128 AB-1L</p>
 </body>
